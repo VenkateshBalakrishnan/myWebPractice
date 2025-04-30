@@ -1,0 +1,10 @@
+node_modules/
+# Build outputs
+dist/
+
+# IDE settings
+.vscode/
+
+# Dependencies
+# Uncomment if you don't want to track package-lock.json
+# package-lock.json
